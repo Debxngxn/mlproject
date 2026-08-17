@@ -89,7 +89,3 @@ This project was built primarily as a learning exercise in shipping a complete M
 - The dataset is small and the relationships it captures (e.g. reading/writing scores predicting math scores) are dataset-specific, not universal.
 - Some inputs (gender, race/ethnicity, parental education) are demographic in nature. Using them as predictors is common in ML tutorials, but should be treated carefully in any real-world use — correlations in a dataset can reflect systemic inequities rather than anything predictive about an individual.
 - This app is best understood as a demonstration of ML engineering and deployment, or as a starting point for aggregate, research-level analysis — not as a tool for making decisions about individual students.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
